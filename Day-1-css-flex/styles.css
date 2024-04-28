@@ -1,0 +1,13 @@
+#container {
+    background-color: yellow;
+    padding: 10px;
+}
+
+.cards {
+    display: flex;
+    gap: 20px;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    background-color: azure;
+}
